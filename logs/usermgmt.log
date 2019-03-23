@@ -1,0 +1,8 @@
+2019-03-23 13:05:07,791] - flask.app - INFO in Users:9:__init__   Initializig User instance
+2019-03-23 13:05:07,795] - flask.app - ERROR in Users:12:__del__    Destroying  User instance
+2019-03-23 13:09:54,668] - flask.app - INFO in Users:9:__init__   Initializing User instance
+2019-03-23 13:10:40,357] - flask.app - INFO in Users:9:__init__   Initializing User instance
+2019-03-23 13:12:07,975] - flask.app - INFO in Users:9:__init__   Initializing User instance
+2019-03-23 13:12:17,014] - flask.app - INFO in Users:9:__init__   Initializing User instance
+2019-03-23 13:12:22,331] - flask.app - INFO in Users:9:__init__   Initializing User instance
+2019-03-23 13:19:10,508] - flask.app - INFO in Users:9:__init__   Initializing User instance
